@@ -79,6 +79,14 @@ p.lead {
   margin-bottom: 40px;
 }
 
+.portfolio-img {
+  border: 1px solid black;
+}
+
+.portfolio-img:hover {
+  border: 5px solid rgba(0, 85, 200, 0.8);
+}
+
 .dev-icons {
   font-size: 3rem;
 }
