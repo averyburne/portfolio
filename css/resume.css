@@ -55,7 +55,7 @@ p.lead {
 }
 
 .social-icons a {
-  /* display: inline-block;
+  display: inline-block;
   height: 3.5rem;
   width: 3.5rem;
   background-color: #495057;
@@ -64,15 +64,19 @@ p.lead {
   text-align: center;
   font-size: 1.5rem;
   line-height: 3.5rem;
-  margin-right: 1rem; */
+  margin-right: 1rem;
 }
 
 .social-icons a:last-child {
-  /* margin-right: 0; */
+  margin-right: 0;
 }
 
 .social-icons a:hover {
-  /* background-color: #BD5D38; */
+  background-color: #BD5D38;
+}
+
+.portfolio-projects {
+  margin-bottom: 40px;
 }
 
 .dev-icons {
