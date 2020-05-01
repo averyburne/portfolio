@@ -85,10 +85,12 @@ p.lead {
 
 .portfolio-img {
   border: 1px solid black;
+  margin: 1px;
 }
 
 .portfolio-img:hover {
   border: 5px solid rgba(0, 85, 200, 0.8);
+  margin: 0;
 }
 
 .mb-5-heading {
