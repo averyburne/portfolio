@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](img/portfolio-preview.png)](https://averyburne.github.io/portfolio/)
+[![Resume Preview](img/portfolio_preview.png)](https://averyburne.github.io/portfolio/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
