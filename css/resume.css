@@ -76,7 +76,7 @@ p.lead {
 }
 
 .btn-warning {
-  text-algin: center;
+  text-align: center;
 }
 
 .portfolio-projects {
@@ -89,6 +89,7 @@ p.lead {
 }
 
 .portfolio-img:hover {
+  cursor: pointer;
   border: 5px solid rgba(0, 85, 200, 0.8);
   margin: 0;
 }
